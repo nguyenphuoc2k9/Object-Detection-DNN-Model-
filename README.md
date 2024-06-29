@@ -70,3 +70,5 @@ Once everything is ready, you can launch the application by running:
 streamlit  run  main.py
 
 ```
+### How to use :
+Upload an image to the website-> It will return the same image with drawn bounding box.
